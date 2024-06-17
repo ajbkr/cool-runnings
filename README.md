@@ -14,6 +14,6 @@ $ cp .env.example .env
 
 Cool Runnings logs CPU temperature to a pre-existing Adafruit IO feed named
 `NAME-cpu-temperature`. For example, if `NAME=Andrews-MBP`, the program will
-will send data to a feed named `andrews-mbp-cpu-temperature`.
+send data to a feed named `andrews-mbp-cpu-temperature`.
 
 NOTE: The value of `NAME` is automatically lower-cased.
